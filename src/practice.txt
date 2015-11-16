@@ -1,4 +1,4 @@
-Joe Smith
+Joe Shmo
 2000 Blueberry Ave.
 Waukesha WI 53189
 John Doe
@@ -7,6 +7,6 @@ Milwaukeemesha WI 53188
 Bill Billingsworth
 119 Billbo Ave.
 Milwaukee WI 53186
-Bill Billingsworth
+Bill Blanhiem
 119 Billbo Ave.
 Milwaukee WI 53186

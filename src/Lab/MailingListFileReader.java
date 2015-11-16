@@ -61,12 +61,12 @@ public class MailingListFileReader {
             }
 
         } catch (IOException ioe) {
-            System.out.println("Houston, we have a problem! reading this file");
+            System.out.println("We have a problem! Cannot read this file.");
         } finally {
             try {
                 in.close();
             } catch (Exception e) {
-                System.out.println("Could not close stream");
+                System.out.println("Could not close the stream.");
             }
         }
         
